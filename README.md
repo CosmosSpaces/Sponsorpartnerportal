@@ -1,4 +1,4 @@
-# Cosmos Spaces ☮️ 💜 ⚛️ VaSponsorship API and portal
+# Cosmos Spaces ☮️ 💜 ⚛️ Sponsorship Portal
 
 - Brought to you by the Cosmos Spaces Development Collective
 - Next.js with Preact in production.
